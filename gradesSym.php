@@ -317,6 +317,6 @@ $graphics->setSvg($elements);
 
 <?php
 
-echo $graphics->getSvg(1300, 1000);
+echo $graphics->getSvg(1300, 700);
 
 
